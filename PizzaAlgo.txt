@@ -1,2 +1,5 @@
 Find the desired pizza store.
 Find the desired pizza to order.
+Add the Pizza to your cart.
+Make the order.
+Wait for the delivery.
